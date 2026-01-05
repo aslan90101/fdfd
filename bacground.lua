@@ -1,1 +1,1 @@
-player:Kick("Скрипт на тех. обслуживании!")
+game.Players.LocalPlayer:Kick("Скрипт на тех. обслуживании!")
